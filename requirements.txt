@@ -1,6 +1,5 @@
-streamlit
 dash
 yfinance
-pandas
 plotly
-numpy
+pandas
+gunicorn
